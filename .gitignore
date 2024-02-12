@@ -1,0 +1,5 @@
+.vscode
+.cache
+subprojects/*
+!subprojects/*.wrap
+build*
